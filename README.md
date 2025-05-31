@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @SelvaGaneshV
+# 👋 Hi, I’m Selva Ganesh 
 
 I'm a developer who enjoys turning complex ideas into simple, visual tools.
 
